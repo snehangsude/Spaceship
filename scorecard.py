@@ -8,6 +8,9 @@ except FileNotFoundError:
     with open('score.txt', mode='w+') as file:
         file.write('0')
         CONTENT = file.read()
+finally:
+    with open("score.txt") as file:
+        CONTENT = file.read()
 
 
 class Score(Turtle):
