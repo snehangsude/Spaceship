@@ -1,4 +1,4 @@
-# Spaceship
+# Spaceship 🚀
 An modern version of the old 90's Spaceship Game
 
 ### Written in python 3.9 
@@ -27,7 +27,6 @@ An modern version of the old 90's Spaceship Game
   * <b>RIGHT</b> Arrow - Move right
   * <b>SPACE</b> Arrow - Plant Repel Bomb
   * <b>ESC</b> Arrow - Exit the game
-* Enjoy!
 
 ## Rules (Know what to expect from the game)
 
