@@ -44,4 +44,4 @@ An modern version of the old 90's Spaceship Game
 ### Improvements planned
 
 * Plans to improve the compartment sensitivity to blockades
-* Plans to setup a random ammunition drop for re-fill of ammunition
+* Plans to setup a random ammunition drop to re-fill ammunition
