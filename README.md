@@ -1,5 +1,5 @@
 # Spaceship
-An mordern version of the old 90s Spaceship Game
+An modern version of the old 90's Spaceship Game
 
 ### Written in python 3.9 
 
@@ -38,6 +38,7 @@ An mordern version of the old 90s Spaceship Game
 * There are only 10 Repel Bombs so use them scarcely and carefully
 * Colliding with the blockade will return you to the base position and your score would be reset to zero (0)
 * The Spaceship is limited to move only little less than halfway above
+* Be careful of merged blockades - repel bomb works on only one of them
 
 
 ### Improvements planned
